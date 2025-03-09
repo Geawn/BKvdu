@@ -1,2 +1,5 @@
-# BKvdu
-BKvdu is a Visual Document Understanding (VDU) model developed as part of our Programming Integration Project at HCMUT. The model has been fine-tuned from Vintern-1B, a widely recognized Vietnamese language model, to specialize in tasks related to Visual 
+# Introduction
+**BKvdu** ,BK Visual Table Question and Answering, is a method of document understanding that utilizes an OCR-free end-to-end Transformer model. It does not require off-the-shelf OCR engines/APIs, yet it shows state-of-the-art performances on various visual document understanding tasks, In this this model, We focus on the task of table VQA. 
+# Dataset
+
+
