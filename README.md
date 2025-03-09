@@ -38,3 +38,4 @@ capture the nuanced differences between models.
 ```bash
 git clone
 ```
+For more information about the installation and the Web demo, We recommend you visit ours on hugging face :D
