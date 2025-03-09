@@ -28,3 +28,13 @@ of sentences. We then use cosine similarity to evaluates the semantic equivalenc
 of responses. The evaluation process involves submitting questions, answers, and response to Gemini
 1.5 Flash, which then assigns a quality score between 0 to 10 based on accuracy. After that, we compute
 the average score on a scale of 1.
+
+![image](images/benchmark.png)
+
+In summary, while each metric has its limitations, Semantic Similarity provided the most consistent
+and meaningful evaluation for the doc VQA task. Future work may explore additional methods to better
+capture the nuanced differences between models.
+## Getting started
+```bash
+git clone
+```
