@@ -32,13 +32,11 @@ the average score on a scale of 1.
 ![image](images/benchmark.png)
 
 In summary, while each metric has its limitations, Semantic Similarity provided the most consistent
-and meaningful evaluation for the doc VQA task. Future work may explore additional methods to better
-
-
-Got: 9.0 / 10 grade
-capture the nuanced differences between models.
+and meaningful evaluation for the doc VQA task. Future work may explore additional methods to better capture the nuanced differences between models.
 ## Getting started
 ```bash
 git clone
 ```
 For more information about the installation and the Web demo, We recommend you visit ours on hugging face :D
+
+Got: 9.0 / 10 grade
