@@ -35,7 +35,6 @@ In summary, while each metric has its limitations, Semantic Similarity provided 
 and meaningful evaluation for the doc VQA task. Future work may explore additional methods to better
 
 
-
 Got: 9.0 / 10 grade
 capture the nuanced differences between models.
 ## Getting started
